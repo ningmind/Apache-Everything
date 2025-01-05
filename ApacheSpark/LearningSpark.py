@@ -198,6 +198,5 @@ def main():
     ## Standalone Mode: run Spark by itself on a set of machines
     ## Hadoop YARN: allow diverse data processing frameworks to run on a shared resource poll, installed on HDFS node
 
-
 if __name__ == '__main__':
     main()
